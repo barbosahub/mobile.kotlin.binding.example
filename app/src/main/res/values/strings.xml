@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Binding.example</string>
+    <string name="your_name">Qual seu nome?</string>
+    <string name="submit">Enviar</string>
+</resources>
